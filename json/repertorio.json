@@ -1,0 +1,110 @@
+[
+
+    {
+        "nombre":"Care Compagne",
+        "compositor": "Vicenzo Bellini",
+        "genero":{"tipo":"Opera",
+                  "opera":"La Sonnambula"},
+        "anio":"1831"
+    },
+    {
+        "nombre":"Ah! Non credea mirarti",
+        "compositor": "Vicenzo Bellini",
+        "genero":{"tipo":"Opera",
+                  "opera":"La Sonnambula"},
+        "anio":"1831"
+    },
+    {
+        "nombre":"Oh! Mio babbino caro",
+        "compositor": "Giacomo Puccini",
+        "genero":{"tipo":"Opera",
+                  "opera":"Gianni Schicchi"},
+        "anio":"1918"
+    },{
+        "nombre":"Falling",
+        "compositor": "Alicia Keys",
+        "genero":{"tipo":"Popular",
+                  "opera":"-"},
+        "anio":"2001"
+    },{
+        "nombre":"Hijo de la Luna",
+        "compositor": "Mecano",
+        "genero":{"tipo":"Popular",
+                  "opera":"-"},
+        "anio":"1986"
+    },
+    {
+        "nombre":"Je veux",
+        "compositor": "Zaz",
+        "genero":{"tipo":"Popular",
+                  "opera":"-"},
+        "anio":"2010"
+    },
+    {
+        "nombre":"Der Hölle Rache",
+        "compositor": "Wolfgang Amadeus Mozart",
+        "genero":{"tipo":"Opera",
+                  "opera":"La Flauta Mágica"},
+        "anio":"1791"
+    },
+    {
+        "nombre":"La Vie en Rose",
+        "compositor": "Edith Piaf",
+        "genero":{"tipo":"Popular",
+                  "opera":"-"},
+        "anio":"1947"
+    },
+    {
+        "nombre":"Like a Virgin",
+        "compositor": "Madonna",
+        "genero":{"tipo":"Popular",
+                  "opera":"-"},
+        "anio":"1984"
+    },
+    {
+        "nombre":"Blackbird",
+        "compositor": "The Beatles",
+        "genero":{"tipo":"Popular",
+                  "opera":"-"},
+        "anio":"1968"
+    },
+    {
+        "nombre":"Caro Nome",
+        "compositor": "Giuseppe Verdi",
+        "genero":{"tipo":"Opera",
+                  "opera":"Rigoletto"},
+        "anio":"1851"
+    },
+    {
+        "nombre":"Où va la jeune Hindoue",
+        "compositor": "Leo Delibes",
+        "genero":{"tipo":"Opera",
+                  "opera":"Lakme"},
+        "anio":"1883"
+    },
+    {
+        "nombre":"Quando m'en vo",
+        "compositor": "Giacomo Puccini",
+        "genero":{"tipo":"Opera",
+                  "opera":"La Boheme"},
+        "anio":"1895"
+    },
+    {
+        "nombre":"Quel guardo il Cavaliere",
+        "compositor": "Gaetano Donizetti",
+        "genero":{"tipo":"Opera",
+                  "opera":"Don Pasquale"},
+        "anio":"1843"
+    },
+    {
+        "nombre":"Durch Zärtlichkeit",
+        "compositor": "Wolfgang Amadeus Mozart",
+        "genero":{"tipo":"Opera",
+                  "opera":"Die Entführung aus dem Serail"},
+        "anio":"1782"
+    }
+
+
+
+
+]
